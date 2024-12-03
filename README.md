@@ -6,9 +6,7 @@
 
 An Android app to scan a consumable product's ingredient list to quickly determine a nutritional rating estimate.
 
-Utilizes the [Google ML Kit](https://developers.google.com/ml-kit/vision/text-recognition/v2/android) Image to Text Recognition API to function.
-
-
+Utilizes the <a href="https://developers.google.com/ml-kit/vision/text-recognition/v2/android" target="_blank">Google ML Kit</a> Image to Text Recognition API to function.
 
 ## Features
 
